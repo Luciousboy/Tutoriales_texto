@@ -1,5 +1,6 @@
 *pk
 *dict
+*tfidf
 Data/*
 .ipynb*
 *.csv
